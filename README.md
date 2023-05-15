@@ -1,4 +1,6 @@
 # board_use_chatgpt
+vscode
+xampp (apeche & myspl)
 
 # install
 1. vscode > extension > search "aicodehelper"
